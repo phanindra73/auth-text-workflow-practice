@@ -1,0 +1,5 @@
+"signup steps:"
+"1. User enters name and email"
+"2.System stores user details"
+"Please add email validation step before saving details."
+"Also mention conformation to user.."
