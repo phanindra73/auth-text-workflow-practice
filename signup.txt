@@ -1,0 +1,3 @@
+"signup steps:"
+"1. User enters name and email"
+"2.System stores user details"
